@@ -5,7 +5,7 @@
 友情提示：
 RN目前仅适合部分相对简单且需要频繁更新的业务场景， 并不是万金油，不建议在放弃原生iOS或安卓开发的情况下探索。
 
-欢迎加入React Native学习群：413973180      by 小波 
+欢迎加入React Native学习群：413973180      by 小波  博客： www.xiaoboswift.com
 
 
 同时还有Awesome React Native系列
