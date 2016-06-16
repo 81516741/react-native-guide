@@ -1,5 +1,12 @@
 # React-Native学习指南
-本指南汇集React-Native各类学习资源，给大家提供便利。指南正在不断的更新，大家有好的资源欢迎Pull Requests！
+
+本指南汇集React-Native（简称RN）各类学习资源，鉴于React Native的发展还在初级阶段（发布不到1年半），和Swift一样更新比较频繁，此资料讲不断更新。
+
+友情提示：
+RN目前仅适合部分相对简单且需要频繁更新的业务场景， 并不是万金油，不建议在放弃原生iOS或安卓开发的情况下探索。
+
+欢迎加入React Native学习群：413973180      by 小波 
+
 
 同时还有Awesome React Native系列
 https://github.com/jondot/awesome-react-native
